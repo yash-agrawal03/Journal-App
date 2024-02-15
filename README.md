@@ -1,6 +1,7 @@
 # JournalApp
 
 ## App Demo Video
+https://github.com/yash-agrawal03/Journal-App/assets/77984203/55bd6d49-74c7-4b31-a3aa-98a9d5921335
 
 
 ## Overview
